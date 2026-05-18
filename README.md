@@ -12,3 +12,6 @@ Instructions to execute the Jupyter Notebooks
    a) Execute the File
    b) In case it says the port is already in use, adjust the port argument with a differen 4-digit number
       app.run(debug=True, port=8010)
+   c) For a better user experience, go directly to your local computer web explorer and go to the local site.
+   In this example, it would be:
+   **http://127.0.0.1:8010/**
