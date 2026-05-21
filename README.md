@@ -15,3 +15,10 @@ Instructions to execute the Jupyter Notebooks
    - c) For a better user experience, go directly to your local computer web explorer and go to the local site.
       In this example, it would be:
       **http://127.0.0.1:8010/**
+
+Explanatory Video:
+The Strategic Game Analysis, which is the analytical product of this project, can be seen in the following YouTube link:
+URL: https://www.youtube.com/watch?v=kbHiJI1AKeI
+Video Name: VDS2526 - Project Implementation Group 4
+User: Theresa Meier
+Date Uploaded: 20.05.2026
