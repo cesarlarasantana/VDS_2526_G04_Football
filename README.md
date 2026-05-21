@@ -22,3 +22,4 @@ The Strategic Game Analysis, which is the analytical product of this project, ca
 - Video Name: VDS2526 - Project Implementation Group 4
 - User: Theresa Meier
 - Date Uploaded: 20.05.2026
+- Audio: It is highly recommended the use of earphone/Headphones for a better audio quality.
